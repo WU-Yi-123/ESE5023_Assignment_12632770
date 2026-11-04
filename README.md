@@ -1,5 +1,1 @@
-# ESE5023_Assignment_12632770
-
-Comemnts on HW1 from Liyl(100/100)
-
-Good job! I only suggest that you can write some descriptive comments for your code. Thanks!
+# ESE5023\_Assignment\_12632770Comemnts on HW1 from Liyl(100/100)Good job! I only suggest that you can write some descriptive comments for your code. Thanks!HW2（101/100）1.你的代码不是简单地完成了基础统计，还考虑了数据质量、历史记录缺失、滑动平均和结果导出。当前主要需要改进的是科学解释和统计口径，而不是整体代码结构。2.数据处理较规范，分析思路清晰，部分质量控制和趋势检验可进一步完善。（+1）3.数据处理完整，统计分析思路清晰，图表较丰富，闰年气候态处理及异常结果解释仍需完善。4.数据处理较规范，分析思路清晰，建议增加一些图表代码整体疑似借助AI工具完成，如果借助AI工具请在pdf文档内进行说明，尽可能独立完成，不要过度依赖AI
